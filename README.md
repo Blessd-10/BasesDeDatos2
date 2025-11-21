@@ -10,10 +10,10 @@
 
 ---
 
-### 📄 Project Overview
+### Project Overview
 This repository contains the deliverables for **Workshop 3**, focusing on the performance optimization and concurrency analysis of the Digital University Library Platform. The architecture evolves from a conceptual data model to a high-performance hybrid system using **Polyglot Persistence** (PostgreSQL + MongoDB + Redis).
 
-### 🚀 Key Deliverables
+### Key Deliverables
 
 #### 1. Final Technical Report (PDF)
 The main document `Workshop3_Final_Report.pdf` integrates:
@@ -30,7 +30,7 @@ To handle high concurrency and Big Data volume, we implemented:
 
 ---
 
-### 📂 Folder Structure
+### Folder Structure
 
 ```text
 /Workshop-3
